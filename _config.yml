@@ -1,0 +1,28 @@
+name: invisalignbarcelona
+favicon: null
+layout_spectrum: 0.07229256490245461
+typography_spectrum: 0.8734447879251093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45510894153267145
+  lightness: 0.4437614590860903
+  saturation: 0.8821790958754718
+  rhythmicContrast: 0.045935697155073285
+purpose: []
